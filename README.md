@@ -19,3 +19,9 @@ Unique crafting for prison only
 Realism Food System (it sucks to suck!)
 
 *More to come
+
+
+# Dependences
+Ox_lib
+Qb-target (Can be converted to ox easily)
+oxmysql
