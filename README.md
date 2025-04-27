@@ -5,15 +5,13 @@
 # version '1.0'
 
 
-- Also Includes some outside Peds for Criminal activities
+## OG Prison Big Bob
+- "OG" System that tracks your total prison time
+- "OG" System that grants increasing rewards and benefits for spending more time in jail
 
 - Job system with multiple job types and room for more copy-pasta
 
 - Hidden Stash System 
-
-- "OG" System that tracks your total prison time
-
-- "OG" System that grants increasing rewards and benefits for spending more time in jail
 
 - Unique crafting for prison only
 
@@ -26,3 +24,7 @@
 - Ox_lib
 - Qb-target (Can be converted to ox easily)
 - oxmysql
+
+
+# Notes
+- Uses a global 'brx-prison:client:Enter' trigger to be used by your police script!  (Can be edited with ease)
