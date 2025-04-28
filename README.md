@@ -22,9 +22,10 @@
 
 # Dependences
 - Ox_lib
-- Qb-target (Can be converted to ox easily)
+- Qb-target
 - oxmysql
-
+- ox_inventory
+Can be converted to listen for other targets/inventory systems
 
 # Notes
 - Uses a global 'brx-prison:client:Enter' trigger to be used by your police script!  (Can be edited with ease)
